@@ -1,21 +1,23 @@
-# kirran-jk.github.io
+# leaflet-challenge: Visualizing Data with Leaflet
 
-The following repository contains HTML files for the following pages:
+This repository contains the following:
 
- * [Landing Page](index.html)
+### Part 1:
 
- * Visualisation Pages:
+  * A street map containing data points for all earthquakes in the last 7 days.
 
-    * [Latitude vs Max Temperature](visualisations/max_temp.html)
+  * The data points are coloured based on the depth of the earthquake, which can be seen in the legend.
 
-    * [Latitude vs Humidity](visualisations/humidity.html)
+  * The data points are sized based on the magnitude of the earthquake.
 
-    * [Latitude vs Cloudiness](visualisations/cloudiness.html)
+  * When clicked on the pop ups provide detail on the location, magnitude and depth of the earthquake.
 
-    * [Latitude vs Wind Speed](visualisations/wind_speed.html)
+[Part 1 Visualisation](Images/Part-1.jpeg)
 
- * [Comparison Page](visualisations/comparisons.html)
+### Part 2:
 
- * [Data Page](visualisations/data.html)
+  * In addition to the above, the user can select either a grayscale or topographic map to view.
 
-Website: https://kirran-jk.github.io/index.html
+  * An additional layer can be selected to view tectonic plates.
+
+[Part 2 Visualisation](Images/Part-2.jpeg)
